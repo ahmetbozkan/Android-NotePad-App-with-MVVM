@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="navbar_color">#EAECF4</color>
+    <color name="background_color">#ffffff</color>
+    <color name="text_color">#000</color>
+    <color name="sub_text_color">#000</color>
+    <color name="tab_indicator_color">#46BEE3</color>
+    <color name="add_button_color">#46BEE3</color>
+    <color name="default_note_color">#46BEE3</color>
+    <color name="settings_top_navbar_color">#EAECF4</color>
+
+</resources>

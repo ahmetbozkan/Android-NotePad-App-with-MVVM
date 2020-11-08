@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_image">Resmi Değiştir</string>
+    <string name="preferences">Tercihler</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="about">Hakkında</string>
+    <string name="version">Versiyon</string>
+    <string name="rate_us">Bizi Oyla</string>
+    <string name="other_apps">Diğer Uygulamalar</string>
+    <string name="version_notes">Versiyon Notları</string>
+    <string name="settings">AYARLAR</string>
+    <string name="language">Dil</string>
+    <string name="languages">Diller</string>
+    <string name="language_english">İngilizce</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="cancel">VAZGEÇ</string>
+    <string name="ok">TAMAM</string>
+    <string name="enter_title">Başlık Giriniz</string>
+    <string name="enter_subtitle">Alt Başlık Giriniz</string>
+    <string name="enter_text">Not Giriniz</string>
+    <string name="note_settings">Not Ayarları</string>
+    <string name="add_image">Resim Ekle</string>
+    <string name="add_to_favorites">Favorilere Ekle</string>
+    <string name="delete_note">Notu Sil</string>
+    <string name="all_notes">Tüm Notlar</string>
+    <string name="favorite_notes">Favori Notlar</string>
+    <string name="note_saved">Not kaydedildi.</string>
+    <string name="note_not_deleted">Önce notu kaydetmelisin.</string>
+    <string name="note_added_favorite">Not favorilere eklendi.</string>
+    <string name="note_removed_favorite">Not favorilerden çıkartıldı.</string>
+    <string name="note_not_added_favorite">Önce notu kaydetmelisin.</string>
+    <string name="note_title_empty">Başlık boş olamaz.</string>
+    <string name="note_text_empty">Not boş olamaz.</string>
+    <string name="empty_subtitle_placeholder">Alt başlık yok.</string>
+    <string name="permission_denied">İzin verilmedi.</string>
+    <string name="note_updated">Not başarıyla güncellendi</string>
+    <string name="note_deleted">Not başarıyla silindi.</string>
+    <string name="add_note">Not Ekle</string>
+    <string name="edit_note">Notu Düzenle</string>
+    <string name="delete_note_question">Notu silmek istediğinizden emin misiniz?</string>
+    <string name="delete_note_title">NOTU SİL</string>
+</resources>

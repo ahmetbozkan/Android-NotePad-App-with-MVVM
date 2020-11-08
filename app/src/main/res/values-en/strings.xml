@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_image">Change Image</string>
+    <string name="preferences">Preferences</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="version_notes">Version Notes</string>
+    <string name="settings">SETTINGS</string>
+    <string name="language">Language</string>
+    <string name="languages">Languages</string>
+    <string name="language_english">English</string>
+    <string name="language_turkish">Turkish</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_subtitle">Enter Subtitle</string>
+    <string name="enter_text">Enter Note Text</string>
+    <string name="note_settings">Note Settings</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="all_notes">All Notes</string>
+    <string name="favorite_notes">Favorite Notes</string>
+    <string name="note_saved">Note saved successfully</string>
+    <string name="note_not_deleted">You can\'t delete unsaved note.</string>
+    <string name="note_added_favorite">Note added to your favorites.</string>
+    <string name="note_removed_favorite">Note removed from your favorites.</string>
+    <string name="note_not_added_favorite">You have to save the note first.</string>
+    <string name="note_title_empty">Note title can\'t be empty.</string>
+    <string name="note_text_empty">Note text can\'t be empty.</string>
+    <string name="empty_subtitle_placeholder">No subtitle.</string>
+    <string name="permission_denied">Permission denied.</string>
+    <string name="note_updated">Note updated successfully.</string>
+    <string name="note_deleted">Note deleted successfully.</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="delete_note_question">Are sure you want to delete this note?</string>
+    <string name="delete_note_title">DELETE NOTE</string>
+</resources>

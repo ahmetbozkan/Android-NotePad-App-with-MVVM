@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEC600</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="navbar_color">#1f1f1f</color>
+    <color name="background_color">#121212</color>
+    <color name="text_color">#fff</color>
+    <color name="sub_text_color">#B5B3B3</color>
+    <color name="tab_indicator_color">#febd3d</color>
+    <color name="add_button_color">#febd3d</color>
+    <color name="settings_top_navbar_color">#1f1f1f</color>
+</resources>

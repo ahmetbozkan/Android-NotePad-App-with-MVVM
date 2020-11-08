@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">NotePad Pro</string>
+
+    <!-- Setting Layout Texts -->
+    <string name="change_image">Change Image</string>
+    <string name="preferences">Preferences</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="version_notes">Version Notes</string>
+    <string name="settings">SETTINGS</string>
+    <string name="language">Language</string>
+    <!-- Setting Layout Texts -->
+
+
+</resources>
